@@ -1,0 +1,17 @@
+
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T001,2026-01-05,U101,Harry Potter,Fantasy,7
+T002,2026-01-06,U102,Python Basics,Education,5
+T003,2026-01-08,U103,The Hobbit,Fantasy,10
+T004,2026-02-02,U101,Python Basics,Education,4
+T005,2026-02-10,U104,The Alchemist,Fiction,6
+T006,2026-02-15,U105,Harry Potter,Fantasy,8
+T007,2026-03-03,U102,Atomic Habits,Self Help,5
+T008,2026-03-10,U106,The Alchemist,Fiction,7
+T009,2026-03-15,U103,Harry Potter,Fantasy,9
+T010,2026-04-01,U104,Python Basics,Education,3
+T011,2026-04-08,U105,Atomic Habits,Self Help,6
+T012,2026-04-12,U101,The Hobbit,Fantasy,8
+T013,2026-05-05,U106,Harry Potter,Fantasy,7
+T014,2026-05-10,U102,The Alchemist,Fiction,4
+T015,2026-05-15,U103,Atomic Habits,Self Help,6
